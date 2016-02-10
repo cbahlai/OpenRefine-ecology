@@ -35,7 +35,9 @@ minutes:
   * Windows: Click the google-refine.exe
   * Mac: Drag icon into Applications folder and double-click it
   * Linux: Run ./refine
+* If Open Refine does not open in your browser after you attempt to launch it, open a new browser tab and point it to 127.0.0.1:3333 in the address bar ([issue 1104](https://github.com/OpenRefine/OpenRefine/issues/1104))
 * Note, this is a Java program that runs on your machine (not in the cloud). It runs inside the Firefox browser, but no web connection is needed.
+
 
 ## Basics of Open Refine
 
